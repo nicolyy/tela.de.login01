@@ -9,7 +9,7 @@ HTML
 CSS
 
 ## Acessar Projeto
-[Clique Aqui](https://formulario-mocha.vercel.app/)
+Veja o projeto, [Clique Aqui](https://formulario-mocha.vercel.app/)
 
 
 ## Feito Por 
