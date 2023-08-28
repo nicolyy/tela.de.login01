@@ -1,5 +1,5 @@
 <img src="capalogingirlcoding.png" width="100%" />
-# Formulario Girl Coding
+## Formulario Girl Coding
 Tela de login com HTML e CSS desenvolvida com o canal girl coding
 
 ## Descrição do Projeto 
